@@ -1,0 +1,3 @@
+Q: My fps is locked at 30fps even after changing settings. (Tested Nvidia 1060ti) [Seemingly occurred after updating drivers. My theory is something with cat files was over-written incorrectly.]
+
+A: Doing a complete reinstall of the Nvidia graphics chipset seems to have solved this problem.
