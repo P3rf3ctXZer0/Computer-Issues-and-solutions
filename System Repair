@@ -1,0 +1,3 @@
+# Q: Help Windows 10 broke itself what can I do?
+
+# A: Always start by trying this first! Run "cmd" in admin and paste this "DISM /Online /Cleanup-Image /RestoreHealth" 
