@@ -1,0 +1,12 @@
+Q: I want to quickly share files on my network and keep it strictly in the network how can I do this?!
+
+A: If you want to share files you need the computer you want to send the files to setup as an ftp server deamon. Using Filezilla Server and some skilled portforwarding seems to work.
+Use the file server winSCP for easy connection. 
+
+Q: I cannot connect to the damn server
+
+A: Check your portforwarding it seems you need a port for your admin a passive set of seperate ports and direct port (alterantive to port 21) 
+
+Q: I have all that but still cannot connect. 
+
+A: Make sure you setup users and groups!
