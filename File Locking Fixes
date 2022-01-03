@@ -2,4 +2,7 @@
 
 # A: Using the application called "Lockhunter" works really well. Also using a registry hack called "take ownership" can also solve most problems.
 
-!
+# Q: Lock hunter isn't helping.
+
+# A: Entering safe mode is the only other option then aside from booting linux live from either usb or cd-dvd drive. You enter safemode by entering 
+"msconfig" in a run box and clicking on "Boot" tab and selecting "SafeBoot" with "Minimal Shell" checked.
